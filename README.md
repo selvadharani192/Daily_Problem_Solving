@@ -2,7 +2,6 @@
 
 📆 Day1 - Implemented a simple LRU CACHE with HASHMAP and doubly linked list
 📆 Day2 - Subarrays whose sum equlas k in brute force approach
-
 📆 Day3 - Count of divisors
  🛣️ Approach 
   ❌ from 1 to n tried to do modulo and the number with zero reminder will be added to result array
