@@ -8,6 +8,8 @@
     * ❌ optimization1 => For sure number will not be divided by number greater than half of itself => reduced iteration to n/2
     * ✅ optimization2 => Another pattern we can see in numbers is : Partion the  number's divisors into [[1,sqrt(n)],[sqrt(n)+1,n/2]],  If we have divisors of range [1,sqrt(n)],then numbers 
        in [sqrt(n)+1,n/2] will be double of each number in [1,sqrt(n)] expect its square root.
+* 📆 Day4 - Count pair which give sum K in a sorted array
+  
 
 
     
