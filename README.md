@@ -13,7 +13,11 @@
      * 🛣️ Approach
          * ❌ o(n^2) brute force with hashset to keep the uniquepair
          * ✅ optimization 1 - HashMap
-         * ✅ optimization 2 - TWO pointer with hashset 
+         * ✅ optimization 2 - TWO pointer with hashset
+* 📆 Day6 - Find the first subarray whose sum equals K
+     * 🛣️ Approach
+         * ❌ o(n^2) form n subarray for each element and return the result when sum is found.
+         * ✅ o(n) find prefixSum , then use two pointer => adjust the pointers to form the sum and return once found.
   
 
 
