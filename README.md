@@ -18,6 +18,10 @@
      * 🛣️ Approach
          * ❌ o(n^2) form n subarray for each element and return the result when sum is found.
          * ✅ o(n) find prefixSum , then use two pointer => adjust the pointers to form the sum and return once found.
+* 📆 Day7 - Generate all the possible valid combinations of paranthesis of given length.
+     * 🛣️ Approach
+         * ✅ we can use stack , push the brackts and pop them by validating the open and closing brackets length.
+         * ✅ Back tracking.
   
 
 
