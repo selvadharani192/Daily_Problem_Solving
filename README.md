@@ -26,7 +26,11 @@
      * 🛣️ Approach
          * ❌ Brute force - traverse through the linked list and find the length and find mid from it , again traverse until the mid and return the element.
          * ✅ Slow and fast pointer approach - take two pointer , move slow pointer one step at a time and fast pointer two steps at a time , when fast pointer reaches the end of the list then
-              slow pointer will be at mid. 
+              slow pointer will be at mid.
+* 📆 Day9 - Check the given Linked list is palindrome or not
+     * 🛣️ Approach
+        * ✅ With slow and fast pointer technique got to the mid of linked list , reverse the first part of the linked list, and then check the second part of the linked list with second part                 whether the values are equal.
+        * ✅ Using stack push the first part of the linked list with the midelement found using above approach , and then traverse the second part of the linked list along with poping the stack.
   
 
 
