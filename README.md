@@ -22,6 +22,11 @@
      * 🛣️ Approach
          * ✅ we can use stack , push the brackts and pop them by validating the open and closing brackets length.
          * ✅ Back tracking.
+* 📆 Day8 - Find middle element of a linked list.
+     * 🛣️ Approach
+         * ❌ Brute force - traverse through the linked list and find the length and find mid from it , again traverse until the mid and return the element.
+         * ✅ Slow and fast pointer approach - take two pointer , move slow pointer one step at a time and fast pointer two steps at a time , when fast pointer reaches the end of the list then
+              slow pointer will be at mid. 
   
 
 
