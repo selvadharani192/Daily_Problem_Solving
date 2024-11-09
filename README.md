@@ -31,7 +31,7 @@
      * 🛣️ Approach
         * ✅ With slow and fast pointer technique got to the mid of linked list , reverse the first part of the linked list, and then check the second part of the linked list with second part                 whether the values are equal.
         * ✅ Using stack push the first part of the linked list with the midelement found using above approach , and then traverse the second part of the linked list along with poping the stack.
-  
+* 📆 Day10 - Learned heap insertion and deletion with min heap - insertion should be done at leaf and deletion should should done at root (A complete binary tree)
 
 
     
