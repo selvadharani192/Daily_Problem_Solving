@@ -32,6 +32,13 @@
         * ✅ With slow and fast pointer technique got to the mid of linked list , reverse the first part of the linked list, and then check the second part of the linked list with second part                 whether the values are equal.
         * ✅ Using stack push the first part of the linked list with the midelement found using above approach , and then traverse the second part of the linked list along with poping the stack.
 * 📆 Day10 - Learned heap insertion and deletion with min heap - insertion should be done at leaf and deletion should should done at root (A complete binary tree)
+* 📆 Day11 -  Array will be given which contain the length of sticks , our job is to connect all the sticks and form them into single one. Restriction : All sticks should be connected with minimum cost. The cost for connecting two sticks will be sum of the length of the sticks.
+     * 🛣️ Approach
+        * ✅ since we need to connect the sticks with minimum cost , we need to make sure we are connecting minimum elements each time.
+        * ✅ Sort the array first
+        * ✅ combine two small size sticks at a time and you will get another stick
+        * ✅ Now we need to insert the new formed stick to right place , so that again list will be sorted
+        * ✅ with heapify algorithm we can find the position with logn time in the existing heap.
 
 
     
