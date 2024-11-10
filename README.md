@@ -38,7 +38,9 @@
         * ✅ Sort the array first
         * ✅ combine two small size sticks at a time and you will get another stick
         * ✅ Now we need to insert the new formed stick to right place , so that again list will be sorted
+        * ❌ Using other algorith may result in o(n) time complexity for insertion
         * ✅ with heapify algorithm we can find the position with logn time in the existing heap.
+          
 
 
     
