@@ -40,6 +40,11 @@
         * ✅ Now we need to insert the new formed stick to right place , so that again list will be sorted
         * ❌ Using other algorith may result in o(n) time complexity for insertion
         * ✅ with heapify algorithm we can find the position with logn time in the existing heap.
+* 📆 Day12 - Ath greatest element in a subarray , subarray will formed with first element. Input : Array , A
+     * 🛣️ Approach
+        * ✅ Maintain a min heap of size A
+        * ✅ whenever an element comes from array which has to inserted into heap , if the element is greater than current min then insert that into heap or else add the current min to the 
+          result 
           
 
 
