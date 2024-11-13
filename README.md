@@ -44,8 +44,11 @@
      * 🛣️ Approach
         * ✅ Maintain a min heap of size A
         * ✅ whenever an element comes from array which has to inserted into heap , if the element is greater than current min then insert that into heap or else add the current min to the 
-          result 
-          
+          result
+* 📆 Day13 - Running Median - find median element whenever a new element comes in to the list
+     * 🛣️ Approach
+        * ❌ Maintain a new array , do insert element one by one sorted and find median
+        * ✅ Build two heaps heap 1 - max heap => contains 1st part of the sorted array min heap => last part of the sorted array find median from it, so this for array whenever element is inserted
 
 
     
