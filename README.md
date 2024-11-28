@@ -50,7 +50,10 @@
         * ❌ Maintain a new array , do insert element one by one sorted and find median
         * ✅ Build two heaps heap 1 - max heap => contains 1st part of the sorted array min heap => last part of the sorted array find median from it, so this for array whenever element is inserted
 * 📆 Day14 - Vertical Order traversal of Binary Tree.
-* 📆 Day15 - Heap Sort - heapify top down approach 
+* 📆 Day15 - Heap Sort - heapify top down approach.
+* 📆 Day16 - Top View Of a Binary Tree - i.e all the outer nodes in the tree 
+    * 🛣️ Approach
+       * ✅ start from root go through the left -> left ->left and add all the values in result , then start with right node and move to that node's right right -> right -> right
 
 
     
