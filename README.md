@@ -54,6 +54,9 @@
 * 📆 Day16 - Top View Of a Binary Tree - i.e all the outer nodes in the tree 
     * 🛣️ Approach
        * ✅ start from root go through the left -> left ->left and add all the values in result , then start with right node and move to that node's right right -> right -> right
+* 📅 Day17 - Level Order Traversal of binary tree.
+    * 🛣️ Approach
+       * ✅ do pre order traversal of tree , maintain the row in each recursion call, row is the index of result array, check there is an array inside the result of index row , of not create one , if the element with index value 'row' present then get that array and push the current value.
 
 
     
