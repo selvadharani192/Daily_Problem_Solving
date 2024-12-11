@@ -57,6 +57,23 @@
 * 📅 Day17 - Level Order Traversal of binary tree.
     * 🛣️ Approach
        * ✅ do pre order traversal of tree , maintain the row in each recursion call, row is the index of result array, check there is an array inside the result of index row , of not create one , if the element with index value 'row' present then get that array and push the current value.
+* 📆 Day18 - Sum of all the subarray
+    * 🛣️ Approach
+       * ✅ We need the overall sum , so we need to find the number of times   each element contribute to the overall sum, So I wrote down and derived a formula
+               1             
+               1 2
+               1 2 3
+               1 2 3 4
+               1 2 3 4 5    - contribution of 1 - N (i=0)
+               2
+               2 3
+               2 3 4
+               2 3 4 5      - contribution of 2 - (N-1) + (N-1)    2N- 2   (i=1)
+
+               3
+               3 4
+               3 4 5       -  contribution of 3 - (N-2)+(N-2)+(N-2) 3N-6    (i=3)
+         so like wise considering all the ones , I was able to derive the formula - (i+1)*N - (i*(i+1))
 
 
     
