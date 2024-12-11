@@ -60,11 +60,13 @@
 * 📆 Day18 - Sum of all the subarray
     * 🛣️ Approach
        * ✅ We need the overall sum , so we need to find the number of times   each element contribute to the overall sum, So I wrote down and derived a formula
+
                1             
                1 2
                1 2 3
                1 2 3 4
                1 2 3 4 5    - contribution of 1 - N (i=0)
+
                2
                2 3
                2 3 4
@@ -73,6 +75,7 @@
                3
                3 4
                3 4 5       -  contribution of 3 - (N-2)+(N-2)+(N-2) 3N-6    (i=3)
+
          so like wise considering all the ones , I was able to derive the formula - (i+1)*N - (i*(i+1))
 
 
