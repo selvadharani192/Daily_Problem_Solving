@@ -77,6 +77,9 @@
                3 4 5       -  contribution of 3 - (N-2)+(N-2)+(N-2) 3N-6    (i=3)
 
          so like wise considering all the ones , I was able to derive the formula - (i+1)*N - (i*(i+1))
+* 📆 Day19 - Rotate the given matrix by 90 degree
+    * 🛣️ Approach 
+        * ✅ Transpose of the matrix and have two pointers swap all the rows of first and last colum , increment the first column and decrement the last column pointer , repeat the step until both meet 
 
 
     
