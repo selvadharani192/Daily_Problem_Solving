@@ -80,6 +80,13 @@
 * 📆 Day19 - Rotate the given matrix by 90 degree
     * 🛣️ Approach 
         * ✅ Transpose of the matrix and have two pointers swap all the rows of first and last colum , increment the first column and decrement the last column pointer , repeat the step until both meet 
+* 📆 Day20 -  Distribute Candy
+N children are standing in a line. Each child is assigned a rating value.
+You are giving candies to these children subjected to the following requirements:
+Each child must have at least one candy.
+Children with a higher rating get more candies than their neighbors.
+
+What is the minimum number of candies you must give?
 
 
     
