@@ -89,7 +89,7 @@ Children with a higher rating get more candies than their neighbors.
 
 What is the minimum number of candies you must give?
 * 📆 Day21 - Merge Two sorted Linked Lists
-Just traversed the two linked list and corrected the connections 😅
+   * 🛣️ Just traversed the two linked list and corrected the connections 😅
 
 
     
