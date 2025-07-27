@@ -14,14 +14,9 @@ public class Solution {
        ListNode slowPointer = head;
        ListNode fastPointer = head;
 
-       while(slowPointer!=null){
+       while(fastPointer!=null&&fastPointer.next!=null){
         slowPointer=slowPointer.next;
-        if(fastPointer!=null&&fastPointer.next!=null){
         fastPointer=fastPointer.next.next;
-        }
-        else{
-           fastPointer=head; 
-        }
         if(slowPointer==fastPointer){
             return true;
         }
