@@ -11,16 +11,22 @@
  */
 public class Solution {
     public boolean hasCycle(ListNode head) {
-        HashSet<ListNode> set = new HashSet<ListNode>();
-        ListNode traversor = head;
-        while(traversor!=null){
-            if(set.contains(traversor))
-            {
-                return true;
-            }
-            set.add(traversor);
-          traversor=traversor.next;
+       ListNode slowPointer = head;
+       ListNode fastPointer = head;
+
+       while(slowPointer!=null){
+        slowPointer=slowPointer.next;
+        if(fastPointer!=null&&fastPointer.next!=null){
+        fastPointer=fastPointer.next.next;
         }
-        return false;
+        else{
+           fastPointer=head; 
+        }
+        if(slowPointer==fastPointer){
+            return true;
+        }
+       }
+               return false;
+
     }
 }
