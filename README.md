@@ -103,6 +103,7 @@ What is the minimum number of candies you must give?
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/0009-palindrome-number) |
 | [0070-climbing-stairs](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/0070-climbing-stairs) |
 ## Dynamic Programming
 |  |
