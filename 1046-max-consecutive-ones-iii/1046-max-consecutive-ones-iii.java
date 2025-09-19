@@ -11,7 +11,6 @@ class Solution {
             if(numberOfZeros<=k){
               if(right-left+1>maxLength){
                 maxLength=right-left+1;
-                System.out.print(left+":: "+right+"]");
               }
             }
             else{
