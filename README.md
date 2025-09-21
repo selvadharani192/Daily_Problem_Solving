@@ -149,6 +149,7 @@ What is the minimum number of candies you must give?
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0058-length-of-last-word](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/0058-length-of-last-word) |
 ## Sliding Window
 |  |
 | ------- |
