@@ -7,7 +7,7 @@ class Solution {
             frequency[nums[i]]++;
             if(  frequency[nums[i]]>maxFreq){
                maxFreq= frequency[nums[i]];
-               System.out.print(nums[i]+" ");
+            //   System.out.print(nums[i]+" ");
             }
         }  
         for(int i=1;i<=100;i++){
