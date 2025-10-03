@@ -1,4 +1,4 @@
-public class Solution {
+public class InsertionAndRemovalInHeap {
     ArrayList<Integer> heap = new ArrayList<Integer>();
     public ArrayList<Integer> solve(ArrayList<ArrayList<Integer>> A) {
         ArrayList<Integer> min=new ArrayList<Integer>();
