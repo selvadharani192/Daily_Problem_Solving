@@ -1,4 +1,4 @@
-public class Solution {
+public class HeapSort {
     public ArrayList<Integer> heapSort(ArrayList<Integer> A) {
         int swapper=0;
          for(int i=A.size()/2-1;i>=0;i--){
