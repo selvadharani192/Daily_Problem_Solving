@@ -1,4 +1,4 @@
-public class Solution {
+public class MinimumCostToConnectAllthePoints {
     public int solve(ArrayList<Integer> A) {
        ArrayList<Integer> heap=new ArrayList<Integer>();
        int totalCost=0;
