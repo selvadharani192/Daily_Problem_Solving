@@ -1,4 +1,4 @@
-public class Solution {
+public class AthGreatesElementFromSubarray {
     public ArrayList<Integer> solve(int A, ArrayList<Integer> B) {
     ArrayList<Integer> heap = new ArrayList<Integer>();
     ArrayList<Integer> result = new ArrayList<Integer>();
