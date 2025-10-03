@@ -1,4 +1,4 @@
-public class SlidingWindow {
+public class SumOfSubArrayOfSizeBequalsC {
     public int solve(ArrayList<Integer> A, int B, int C) {
         int sum=0;
         for(int i=0;i<B;i++)
