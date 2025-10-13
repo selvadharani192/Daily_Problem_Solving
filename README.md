@@ -122,6 +122,7 @@ What is the minimum number of candies you must give?
 | [0003-longest-substring-without-repeating-characters](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0141-linked-list-cycle](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/0141-linked-list-cycle) |
 | [0229-majority-element-ii](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/0229-majority-element-ii) |
+| [0567-permutation-in-string](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/0567-permutation-in-string) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/3242-count-elements-with-maximum-frequency) |
 ## Linked List
 |  |
@@ -134,6 +135,7 @@ What is the minimum number of candies you must give?
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/0141-linked-list-cycle) |
+| [0567-permutation-in-string](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/0567-permutation-in-string) |
 ## Array
 |  |
 | ------- |
@@ -164,10 +166,12 @@ What is the minimum number of candies you must give?
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0058-length-of-last-word](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/0058-length-of-last-word) |
+| [0567-permutation-in-string](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/0567-permutation-in-string) |
 ## Sliding Window
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0567-permutation-in-string](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/0567-permutation-in-string) |
 | [1046-max-consecutive-ones-iii](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/1046-max-consecutive-ones-iii) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 ## Binary Search
