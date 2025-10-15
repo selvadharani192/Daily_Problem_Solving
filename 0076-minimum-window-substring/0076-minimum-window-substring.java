@@ -5,8 +5,8 @@ class Solution {
          for(int i=0;i<t.length();i++){
             frequency.put(t.charAt(i),frequency.getOrDefault(t.charAt(i),0)+1);
          }
-         String res = "";
             HashMap<Character,Integer> frequencyForWindow = new HashMap<Character,Integer>();
+            
             int windowSize=0;
             int min=Integer.MAX_VALUE;
             int leftIndex=-1;
@@ -38,10 +38,8 @@ class Solution {
                 }
          }
          if(leftIndex!=-1){
-         for(int i=leftIndex;i<=rightIndex;i++){
-res+=s.charAt(i);
+           return s.substring(leftIndex, leftIndex + min);
          }
-         }
-         return res;
+         return "";
     }
 }
