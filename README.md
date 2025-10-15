@@ -215,4 +215,8 @@ What is the minimum number of candies you must give?
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/0011-container-with-most-water) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
