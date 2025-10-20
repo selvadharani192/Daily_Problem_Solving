@@ -225,6 +225,7 @@ What is the minimum number of candies you must give?
 | [0175-combine-two-tables](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/0175-combine-two-tables) |
 | [0176-second-highest-salary](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/0176-second-highest-salary) |
 | [0177-nth-highest-salary](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/0177-nth-highest-salary) |
+| [0181-employees-earning-more-than-their-managers](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/0181-employees-earning-more-than-their-managers) |
 ## Stack
 |  |
 | ------- |
