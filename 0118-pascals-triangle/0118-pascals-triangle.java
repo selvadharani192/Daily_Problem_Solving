@@ -8,7 +8,6 @@ class Solution {
   pattern.add(1);
                 }
                 else{
-                                    System.out.print(result.get(i-1));
                  
                   pattern.add(result.get(i-1).get(j-1)+result.get(i-1).get(j));
                 }
