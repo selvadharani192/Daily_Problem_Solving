@@ -5,7 +5,7 @@ class Solution {
         if((n&1)==1){
             count++;
         }
-        n=n>>1;
+        n=n>>1;   // right shift na it divides by two and left shift do the opposite
        } 
 
        return count;
