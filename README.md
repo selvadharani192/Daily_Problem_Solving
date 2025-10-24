@@ -162,6 +162,7 @@ What is the minimum number of candies you must give?
 ## Bit Manipulation
 |  |
 | ------- |
+| [0191-number-of-1-bits](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/0191-number-of-1-bits) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Enumeration
 |  |
@@ -249,4 +250,8 @@ What is the minimum number of candies you must give?
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/0094-binary-tree-inorder-traversal) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0191-number-of-1-bits](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/0191-number-of-1-bits) |
 <!---LeetCode Topics End-->
