@@ -107,6 +107,7 @@ What is the minimum number of candies you must give?
 | [0009-palindrome-number](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/0070-climbing-stairs) |
+| [0189-rotate-array](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/0189-rotate-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -138,6 +139,7 @@ What is the minimum number of candies you must give?
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/0141-linked-list-cycle) |
+| [0189-rotate-array](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/0189-rotate-array) |
 | [0567-permutation-in-string](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/0567-permutation-in-string) |
 ## Array
 |  |
@@ -149,6 +151,7 @@ What is the minimum number of candies you must give?
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/0118-pascals-triangle) |
+| [0189-rotate-array](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/0189-rotate-array) |
 | [0229-majority-element-ii](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/0229-majority-element-ii) |
 | [1046-max-consecutive-ones-iii](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/1046-max-consecutive-ones-iii) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
