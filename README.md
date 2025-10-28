@@ -148,6 +148,7 @@ What is the minimum number of candies you must give?
 | [0011-container-with-most-water](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/0015-3sum) |
 | [0066-plus-one](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/0066-plus-one) |
+| [0078-subsets](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/0078-subsets) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/0118-pascals-triangle) |
@@ -162,10 +163,12 @@ What is the minimum number of candies you must give?
 ## Backtracking
 |  |
 | ------- |
+| [0078-subsets](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/0078-subsets) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/0191-number-of-1-bits) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
