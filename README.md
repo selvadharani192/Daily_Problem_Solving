@@ -115,6 +115,7 @@ What is the minimum number of candies you must give?
 | [0118-pascals-triangle](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/0119-pascals-triangle-ii) |
 | [0198-house-robber](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/0198-house-robber) |
+| [0338-counting-bits](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/0338-counting-bits) |
 ## Memoization
 |  |
 | ------- |
@@ -175,6 +176,7 @@ What is the minimum number of candies you must give?
 | [0078-subsets](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/0191-number-of-1-bits) |
+| [0338-counting-bits](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/0338-counting-bits) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Enumeration
 |  |
