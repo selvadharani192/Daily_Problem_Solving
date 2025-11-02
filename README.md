@@ -108,6 +108,7 @@ What is the minimum number of candies you must give?
 | [0066-plus-one](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/0189-rotate-array) |
+| [1013-fibonacci-number](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/1013-fibonacci-number) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -116,10 +117,12 @@ What is the minimum number of candies you must give?
 | [0119-pascals-triangle-ii](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/0119-pascals-triangle-ii) |
 | [0198-house-robber](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/0198-house-robber) |
 | [0338-counting-bits](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/0338-counting-bits) |
+| [1013-fibonacci-number](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/1013-fibonacci-number) |
 ## Memoization
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/0070-climbing-stairs) |
+| [1013-fibonacci-number](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/1013-fibonacci-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -272,4 +275,8 @@ What is the minimum number of candies you must give?
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/0191-number-of-1-bits) |
+## Recursion
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
