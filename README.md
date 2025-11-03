@@ -112,6 +112,7 @@ What is the minimum number of candies you must give?
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/0022-generate-parentheses) |
 | [0070-climbing-stairs](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/0119-pascals-triangle-ii) |
@@ -171,6 +172,7 @@ What is the minimum number of candies you must give?
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/0022-generate-parentheses) |
 | [0078-subsets](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/0078-subsets) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Bit Manipulation
@@ -189,6 +191,7 @@ What is the minimum number of candies you must give?
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0022-generate-parentheses](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/0022-generate-parentheses) |
 | [0058-length-of-last-word](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/0058-length-of-last-word) |
 | [0076-minimum-window-substring](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/0076-minimum-window-substring) |
 | [0567-permutation-in-string](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/0567-permutation-in-string) |
