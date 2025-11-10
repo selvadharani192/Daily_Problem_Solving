@@ -275,14 +275,17 @@ What is the minimum number of candies you must give?
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/0094-binary-tree-inorder-traversal) |
+| [0112-path-sum](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/0112-path-sum) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/0094-binary-tree-inorder-traversal) |
+| [0112-path-sum](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/0112-path-sum) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/0094-binary-tree-inorder-traversal) |
+| [0112-path-sum](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/0112-path-sum) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -291,4 +294,8 @@ What is the minimum number of candies you must give?
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/1013-fibonacci-number) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0112-path-sum](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/0112-path-sum) |
 <!---LeetCode Topics End-->
