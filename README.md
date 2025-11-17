@@ -105,6 +105,7 @@ What is the minimum number of candies you must give?
 | ------- |
 | [0007-reverse-integer](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/0009-palindrome-number) |
+| [0062-unique-paths](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/0189-rotate-array) |
@@ -114,6 +115,7 @@ What is the minimum number of candies you must give?
 | ------- |
 | [0022-generate-parentheses](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/0022-generate-parentheses) |
 | [0045-jump-game-ii](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/0045-jump-game-ii) |
+| [0062-unique-paths](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/0119-pascals-triangle-ii) |
@@ -303,4 +305,8 @@ What is the minimum number of candies you must give?
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/0112-path-sum) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
