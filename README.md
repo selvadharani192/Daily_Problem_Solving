@@ -107,6 +107,7 @@ What is the minimum number of candies you must give?
 | [0009-palindrome-number](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/0009-palindrome-number) |
 | [0062-unique-paths](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/0066-plus-one) |
+| [0069-sqrtx](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/0189-rotate-array) |
 | [1013-fibonacci-number](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/1013-fibonacci-number) |
@@ -221,6 +222,7 @@ What is the minimum number of candies you must give?
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/0069-sqrtx) |
 | [0300-longest-increasing-subsequence](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/0300-longest-increasing-subsequence) |
 | [1046-max-consecutive-ones-iii](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/1046-max-consecutive-ones-iii) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/2394-count-subarrays-with-score-less-than-k) |
