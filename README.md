@@ -164,6 +164,7 @@ What is the minimum number of candies you must give?
 | [0001-two-sum](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/0015-3sum) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/0035-search-insert-position) |
 | [0045-jump-game-ii](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/0045-jump-game-ii) |
 | [0064-minimum-path-sum](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/0064-minimum-path-sum) |
@@ -225,6 +226,7 @@ What is the minimum number of candies you must give?
 ## Binary Search
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/0069-sqrtx) |
 | [0300-longest-increasing-subsequence](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/0300-longest-increasing-subsequence) |
