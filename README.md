@@ -148,6 +148,7 @@ What is the minimum number of candies you must give?
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/0141-linked-list-cycle) |
+| [0206-reverse-linked-list](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/0206-reverse-linked-list) |
 ## Two Pointers
 |  |
 | ------- |
@@ -310,6 +311,7 @@ What is the minimum number of candies you must give?
 ## Recursion
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/0206-reverse-linked-list) |
 | [1013-fibonacci-number](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/1013-fibonacci-number) |
 ## Breadth-First Search
 |  |
