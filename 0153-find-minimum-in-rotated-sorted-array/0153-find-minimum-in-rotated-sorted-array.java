@@ -2,7 +2,7 @@ class Solution {
     public int findMin(int[] nums) {
         int left =0;
         int right = nums.length-1;
-         int min = Integer.MAX_VALUE;
+         int min =nums[right];
         while(left<=right){
             int mid = (left+right)/2;
             if(nums[mid]>=nums[left]){
