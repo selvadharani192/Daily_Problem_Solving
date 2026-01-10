@@ -188,6 +188,7 @@ What is the minimum number of candies you must give?
 | [0747-min-cost-climbing-stairs](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/0747-min-cost-climbing-stairs) |
 | [1046-max-consecutive-ones-iii](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/1046-max-consecutive-ones-iii) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/3242-count-elements-with-maximum-frequency) |
