@@ -19,9 +19,10 @@ class Solution {
                 nums2Traversor++;
             }
         }
-int[] result1 = result.stream()
-                      .mapToInt(Integer::intValue)
-                      .toArray();
+ int[] result1 = new int[result.size()];
+ for(int i=0;i<result.size();i++){
+   result1[i]=result.get(i); 
+ }
         
        return result1;
     }
