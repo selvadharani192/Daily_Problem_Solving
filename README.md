@@ -156,6 +156,7 @@ What is the minimum number of candies you must give?
 | ------- |
 | [0011-container-with-most-water](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/0016-3sum-closest) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/0141-linked-list-cycle) |
@@ -169,6 +170,7 @@ What is the minimum number of candies you must give?
 | [0001-two-sum](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/0016-3sum-closest) |
 | [0033-search-in-rotated-sorted-array](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/0035-search-insert-position) |
@@ -266,6 +268,7 @@ What is the minimum number of candies you must give?
 |  |
 | ------- |
 | [0015-3sum](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/0016-3sum-closest) |
 | [0088-merge-sorted-array](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/0229-majority-element-ii) |
