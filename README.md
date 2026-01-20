@@ -194,6 +194,7 @@ What is the minimum number of candies you must give?
 | [0229-majority-element-ii](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/0229-majority-element-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/0300-longest-increasing-subsequence) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0436-find-right-interval](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/0436-find-right-interval) |
 | [0540-single-element-in-a-sorted-array](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/0540-single-element-in-a-sorted-array) |
 | [0747-min-cost-climbing-stairs](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/0747-min-cost-climbing-stairs) |
 | [0875-koko-eating-bananas](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/0875-koko-eating-bananas) |
@@ -252,6 +253,7 @@ What is the minimum number of candies you must give?
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0300-longest-increasing-subsequence](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/0300-longest-increasing-subsequence) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0436-find-right-interval](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/0436-find-right-interval) |
 | [0540-single-element-in-a-sorted-array](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/0540-single-element-in-a-sorted-array) |
 | [0875-koko-eating-bananas](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/0875-koko-eating-bananas) |
 | [1046-max-consecutive-ones-iii](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/1046-max-consecutive-ones-iii) |
@@ -275,6 +277,7 @@ What is the minimum number of candies you must give?
 | [0217-contains-duplicate](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/0229-majority-element-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0436-find-right-interval](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/0436-find-right-interval) |
 ## Queue
 |  |
 | ------- |
