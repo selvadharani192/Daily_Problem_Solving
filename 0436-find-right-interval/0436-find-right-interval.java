@@ -2,14 +2,15 @@ class Solution {
     public int[] findRightInterval(int[][] intervals) {
         HashMap<Integer,Integer> index = new HashMap<Integer,Integer>();
         int[] result = new int[intervals.length];
+          Arrays.fill(result, -1);
         for(int i=0;i<intervals.length;i++){
             index.put(intervals[i][0],i);
         }
         Arrays.sort(intervals, (a, b) -> Integer.compare(a[0], b[0]));
         for(int i=0;i<intervals.length;i++){
            int interval = binarySearch(intervals,i);
-          
-          result[index.get(intervals[i][0])] = interval!=-1?index.get(intervals[interval][0]):-1;
+        if(interval!=-1){          result[index.get(intervals[i][0])] =index.get(intervals[interval][0]);
+        }
         }
         return result;
     }
