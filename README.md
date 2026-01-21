@@ -162,6 +162,7 @@ What is the minimum number of candies you must give?
 | [0141-linked-list-cycle](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/0141-linked-list-cycle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/0189-rotate-array) |
+| [0287-find-the-duplicate-number](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0567-permutation-in-string](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/0567-permutation-in-string) |
 ## Array
@@ -192,6 +193,7 @@ What is the minimum number of candies you must give?
 | [0198-house-robber](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/0198-house-robber) |
 | [0217-contains-duplicate](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/0229-majority-element-ii) |
+| [0287-find-the-duplicate-number](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/0300-longest-increasing-subsequence) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0436-find-right-interval](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/0436-find-right-interval) |
@@ -216,6 +218,7 @@ What is the minimum number of candies you must give?
 | [0078-subsets](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/0191-number-of-1-bits) |
+| [0287-find-the-duplicate-number](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/0338-counting-bits) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Enumeration
@@ -251,6 +254,7 @@ What is the minimum number of candies you must give?
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0287-find-the-duplicate-number](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/0300-longest-increasing-subsequence) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0436-find-right-interval](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/0436-find-right-interval) |
