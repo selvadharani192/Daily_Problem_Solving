@@ -152,6 +152,7 @@ What is the minimum number of candies you must give?
 |  |
 | ------- |
 | [0061-rotate-list](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/0061-rotate-list) |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0141-linked-list-cycle](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/0206-reverse-linked-list) |
 ## Two Pointers
@@ -162,6 +163,7 @@ What is the minimum number of candies you must give?
 | [0016-3sum-closest](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/0016-3sum-closest) |
 | [0061-rotate-list](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/0061-rotate-list) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0088-merge-sorted-array](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/0141-linked-list-cycle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/0167-two-sum-ii-input-array-is-sorted) |
