@@ -205,6 +205,7 @@ What is the minimum number of candies you must give?
 | [0350-intersection-of-two-arrays-ii](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0436-find-right-interval](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/0436-find-right-interval) |
 | [0455-assign-cookies](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/0455-assign-cookies) |
+| [0485-max-consecutive-ones](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/0540-single-element-in-a-sorted-array) |
 | [0747-min-cost-climbing-stairs](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/0747-min-cost-climbing-stairs) |
 | [0875-koko-eating-bananas](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/0875-koko-eating-bananas) |
