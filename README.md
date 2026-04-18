@@ -114,6 +114,7 @@ What is the minimum number of candies you must give?
 | [0367-valid-perfect-square](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/0367-valid-perfect-square) |
 | [1013-fibonacci-number](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/1013-fibonacci-number) |
 | [1925-count-square-sum-triples](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/1925-count-square-sum-triples) |
+| [3783-mirror-distance-of-an-integer](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/3783-mirror-distance-of-an-integer) |
 ## Dynamic Programming
 |  |
 | ------- |
