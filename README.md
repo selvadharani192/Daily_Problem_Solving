@@ -174,6 +174,7 @@ What is the minimum number of candies you must give?
 | [0350-intersection-of-two-arrays-ii](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/0455-assign-cookies) |
 | [0567-permutation-in-string](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/0567-permutation-in-string) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 ## Array
 |  |
 | ------- |
@@ -215,6 +216,7 @@ What is the minimum number of candies you must give?
 | [1046-max-consecutive-ones-iii](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/1046-max-consecutive-ones-iii) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -276,6 +278,7 @@ What is the minimum number of candies you must give?
 | [0540-single-element-in-a-sorted-array](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/0540-single-element-in-a-sorted-array) |
 | [0875-koko-eating-bananas](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/0875-koko-eating-bananas) |
 | [1046-max-consecutive-ones-iii](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/1046-max-consecutive-ones-iii) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/2394-count-subarrays-with-score-less-than-k) |
 ## Prefix Sum
 |  |
