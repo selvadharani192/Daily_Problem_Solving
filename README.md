@@ -219,6 +219,7 @@ What is the minimum number of candies you must give?
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/2394-count-subarrays-with-score-less-than-k) |
+| [2553-separate-the-digits-in-an-array](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/2553-separate-the-digits-in-an-array) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/3242-count-elements-with-maximum-frequency) |
 ## Backtracking
@@ -385,6 +386,7 @@ What is the minimum number of candies you must give?
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/0258-add-digits) |
+| [2553-separate-the-digits-in-an-array](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/2553-separate-the-digits-in-an-array) |
 ## Number Theory
 |  |
 | ------- |
