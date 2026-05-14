@@ -1,10 +1,10 @@
 class Solution {
     public String longestCommonPrefix(String[] strs) {
+          String common="";
           if (strs == null || strs.length == 0) {
-            return "";
+            return common;
         }
-        String common="";
-        for(int i=0;;i++){
+        for(int i=0;i<strs[0].length();i++){
             char c='0';
         if(i<strs[0].length()){
             c=strs[0].charAt(i);
@@ -20,6 +20,6 @@ class Solution {
         }
 common+=c;
         }
-       
+       return common;
     }
 }
