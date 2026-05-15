@@ -248,6 +248,7 @@ What is the minimum number of candies you must give?
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/0022-generate-parentheses) |
 | [0058-length-of-last-word](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/0058-length-of-last-word) |
 | [0076-minimum-window-substring](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/0076-minimum-window-substring) |
@@ -346,6 +347,7 @@ What is the minimum number of candies you must give?
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/0094-binary-tree-inorder-traversal) |
 ## Tree
 |  |
