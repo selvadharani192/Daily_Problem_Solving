@@ -153,6 +153,7 @@ What is the minimum number of candies you must give?
 ## Linked List
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/0021-merge-two-sorted-lists) |
 | [0061-rotate-list](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0141-linked-list-cycle](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/0141-linked-list-cycle) |
@@ -372,6 +373,7 @@ What is the minimum number of candies you must give?
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/0206-reverse-linked-list) |
 | [1013-fibonacci-number](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/1013-fibonacci-number) |
 ## Breadth-First Search
