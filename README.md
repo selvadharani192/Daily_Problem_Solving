@@ -110,6 +110,7 @@ What is the minimum number of candies you must give?
 | [0069-sqrtx](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/0258-add-digits) |
 | [0367-valid-perfect-square](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/0367-valid-perfect-square) |
 | [1013-fibonacci-number](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/1013-fibonacci-number) |
@@ -143,6 +144,7 @@ What is the minimum number of candies you must give?
 | [0003-longest-substring-without-repeating-characters](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/0076-minimum-window-substring) |
 | [0141-linked-list-cycle](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/0141-linked-list-cycle) |
+| [0202-happy-number](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/0347-top-k-frequent-elements) |
@@ -171,6 +173,7 @@ What is the minimum number of candies you must give?
 | [0141-linked-list-cycle](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/0141-linked-list-cycle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/0202-happy-number) |
 | [0287-find-the-duplicate-number](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/0455-assign-cookies) |
