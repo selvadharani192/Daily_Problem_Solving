@@ -113,6 +113,7 @@ What is the minimum number of candies you must give?
 | [0202-happy-number](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/0258-add-digits) |
 | [0367-valid-perfect-square](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/0367-valid-perfect-square) |
+| [0523-continuous-subarray-sum](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/0523-continuous-subarray-sum) |
 | [1013-fibonacci-number](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/1013-fibonacci-number) |
 | [1925-count-square-sum-triples](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/1925-count-square-sum-triples) |
 | [3783-mirror-distance-of-an-integer](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/3783-mirror-distance-of-an-integer) |
@@ -149,6 +150,7 @@ What is the minimum number of candies you must give?
 | [0229-majority-element-ii](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0523-continuous-subarray-sum](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/0523-continuous-subarray-sum) |
 | [0567-permutation-in-string](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/0567-permutation-in-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/3242-count-elements-with-maximum-frequency) |
@@ -215,6 +217,7 @@ What is the minimum number of candies you must give?
 | [0436-find-right-interval](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/0436-find-right-interval) |
 | [0455-assign-cookies](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/0485-max-consecutive-ones) |
+| [0523-continuous-subarray-sum](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/0523-continuous-subarray-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/0540-single-element-in-a-sorted-array) |
 | [0747-min-cost-climbing-stairs](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/0747-min-cost-climbing-stairs) |
 | [0875-koko-eating-bananas](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/0875-koko-eating-bananas) |
@@ -291,6 +294,7 @@ What is the minimum number of candies you must give?
 ## Prefix Sum
 |  |
 | ------- |
+| [0523-continuous-subarray-sum](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/0523-continuous-subarray-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/1046-max-consecutive-ones-iii) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/2394-count-subarrays-with-score-less-than-k) |
 ## Counting
