@@ -210,6 +210,7 @@ What is the minimum number of candies you must give?
 | [0198-house-robber](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/0198-house-robber) |
 | [0217-contains-duplicate](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/0229-majority-element-ii) |
+| [0238-product-of-array-except-self](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/0238-product-of-array-except-self) |
 | [0287-find-the-duplicate-number](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/0300-longest-increasing-subsequence) |
 | [0347-top-k-frequent-elements](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/0347-top-k-frequent-elements) |
@@ -294,6 +295,7 @@ What is the minimum number of candies you must give?
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/0238-product-of-array-except-self) |
 | [0523-continuous-subarray-sum](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/0523-continuous-subarray-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/1046-max-consecutive-ones-iii) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/2394-count-subarrays-with-score-less-than-k) |
