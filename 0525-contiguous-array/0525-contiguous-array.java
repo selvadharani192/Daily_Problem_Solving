@@ -12,13 +12,13 @@ prefixSum+=-1;
         else{
             prefixSum+=1;
         }
-
-      if(!freq.containsKey(prefixSum)){
+       Integer idx = freq.get(prefixSum);
+      if(idx==null){
         freq.put(prefixSum,i);
       }
       else{
-        if(res<i-freq.get(prefixSum)){
-            res = i-freq.get(prefixSum);
+        if(res<i-idx){
+            res = i-idx;
         }
       }
       }
