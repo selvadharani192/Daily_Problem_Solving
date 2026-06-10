@@ -151,6 +151,7 @@ What is the minimum number of candies you must give?
 | [0347-top-k-frequent-elements](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0523-continuous-subarray-sum](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/0523-continuous-subarray-sum) |
+| [0525-contiguous-array](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/0567-permutation-in-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -220,6 +221,7 @@ What is the minimum number of candies you must give?
 | [0455-assign-cookies](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/0485-max-consecutive-ones) |
 | [0523-continuous-subarray-sum](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/0523-continuous-subarray-sum) |
+| [0525-contiguous-array](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/0525-contiguous-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/0560-subarray-sum-equals-k) |
 | [0747-min-cost-climbing-stairs](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/0747-min-cost-climbing-stairs) |
@@ -299,6 +301,7 @@ What is the minimum number of candies you must give?
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/0238-product-of-array-except-self) |
 | [0523-continuous-subarray-sum](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/0523-continuous-subarray-sum) |
+| [0525-contiguous-array](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/0560-subarray-sum-equals-k) |
 | [1046-max-consecutive-ones-iii](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/1046-max-consecutive-ones-iii) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/2394-count-subarrays-with-score-less-than-k) |
