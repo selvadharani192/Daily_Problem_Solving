@@ -181,6 +181,7 @@ What is the minimum number of candies you must give?
 | [0202-happy-number](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/0202-happy-number) |
 | [0287-find-the-duplicate-number](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0443-string-compression](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/0443-string-compression) |
 | [0455-assign-cookies](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/0455-assign-cookies) |
 | [0567-permutation-in-string](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/0567-permutation-in-string) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/1855-maximum-distance-between-a-pair-of-values) |
@@ -266,6 +267,7 @@ What is the minimum number of candies you must give?
 | [0022-generate-parentheses](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/0022-generate-parentheses) |
 | [0058-length-of-last-word](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/0058-length-of-last-word) |
 | [0076-minimum-window-substring](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/0076-minimum-window-substring) |
+| [0443-string-compression](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/0567-permutation-in-string) |
 ## Sliding Window
 |  |
