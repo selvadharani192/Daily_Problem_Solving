@@ -113,6 +113,7 @@ What is the minimum number of candies you must give?
 | [0202-happy-number](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/0258-add-digits) |
 | [0367-valid-perfect-square](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/0367-valid-perfect-square) |
+| [0380-insert-delete-getrandom-o1](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/0380-insert-delete-getrandom-o1) |
 | [0523-continuous-subarray-sum](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/0523-continuous-subarray-sum) |
 | [1013-fibonacci-number](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/1013-fibonacci-number) |
 | [1925-count-square-sum-triples](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/1925-count-square-sum-triples) |
@@ -152,6 +153,7 @@ What is the minimum number of candies you must give?
 | [0347-top-k-frequent-elements](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0380-insert-delete-getrandom-o1](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/0380-insert-delete-getrandom-o1) |
 | [0383-ransom-note](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/0383-ransom-note) |
 | [0409-longest-palindrome](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/0409-longest-palindrome) |
 | [0523-continuous-subarray-sum](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/0523-continuous-subarray-sum) |
@@ -224,6 +226,7 @@ What is the minimum number of candies you must give?
 | [0347-top-k-frequent-elements](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0380-insert-delete-getrandom-o1](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/0380-insert-delete-getrandom-o1) |
 | [0435-non-overlapping-intervals](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/0435-non-overlapping-intervals) |
 | [0436-find-right-interval](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/0436-find-right-interval) |
 | [0455-assign-cookies](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/0455-assign-cookies) |
@@ -441,4 +444,12 @@ What is the minimum number of candies you must give?
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/0014-longest-common-prefix) |
+## Design
+|  |
+| ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/0380-insert-delete-getrandom-o1) |
+## Randomized
+|  |
+| ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/0380-insert-delete-getrandom-o1) |
 <!---LeetCode Topics End-->
