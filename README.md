@@ -105,6 +105,7 @@ What is the minimum number of candies you must give?
 | ------- |
 | [0007-reverse-integer](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/0009-palindrome-number) |
+| [0048-rotate-image](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/0069-sqrtx) |
@@ -204,6 +205,7 @@ What is the minimum number of candies you must give?
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/0035-search-insert-position) |
 | [0045-jump-game-ii](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/0045-jump-game-ii) |
+| [0048-rotate-image](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/0048-rotate-image) |
 | [0064-minimum-path-sum](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/0078-subsets) |
@@ -424,6 +426,7 @@ What is the minimum number of candies you must give?
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/0048-rotate-image) |
 | [0064-minimum-path-sum](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/0064-minimum-path-sum) |
 ## Simulation
 |  |
