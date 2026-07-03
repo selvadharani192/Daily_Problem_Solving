@@ -206,6 +206,7 @@ What is the minimum number of candies you must give?
 | [0035-search-insert-position](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/0035-search-insert-position) |
 | [0045-jump-game-ii](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/0054-spiral-matrix) |
 | [0064-minimum-path-sum](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/0078-subsets) |
@@ -427,10 +428,12 @@ What is the minimum number of candies you must give?
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/0054-spiral-matrix) |
 | [0064-minimum-path-sum](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/0064-minimum-path-sum) |
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/0054-spiral-matrix) |
 | [0258-add-digits](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/0258-add-digits) |
 | [2553-separate-the-digits-in-an-array](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/2553-separate-the-digits-in-an-array) |
 ## Number Theory
