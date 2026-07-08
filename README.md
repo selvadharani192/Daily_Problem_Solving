@@ -146,6 +146,7 @@ What is the minimum number of candies you must give?
 | ------- |
 | [0001-two-sum](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0036-valid-sudoku](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/0036-valid-sudoku) |
 | [0076-minimum-window-substring](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/0141-linked-list-cycle) |
@@ -204,6 +205,7 @@ What is the minimum number of candies you must give?
 | [0033-search-in-rotated-sorted-array](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/0035-search-insert-position) |
+| [0036-valid-sudoku](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/0036-valid-sudoku) |
 | [0045-jump-game-ii](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/0054-spiral-matrix) |
@@ -427,6 +429,7 @@ What is the minimum number of candies you must give?
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/0054-spiral-matrix) |
 | [0064-minimum-path-sum](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/0064-minimum-path-sum) |
