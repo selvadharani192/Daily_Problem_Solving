@@ -6,9 +6,9 @@ class Solution {
                 if(board[i][j]=='.'){
                     continue;
                 }
-                String row = board[i][j]+"r"+i;
-                 String column = board[i][j]+"c"+j;
-                  String box = board[i][j]+"b"+i/3+"."+j/3;
+                String row = board[i][j]+"-1"+i;
+                 String column = board[i][j]+"-2"+j;
+                  String box = board[i][j]+"-3"+i/3+"."+j/3;
                   if(tracker.contains(row)||tracker.contains(column)||tracker.contains(box)){
                     return false;
                   }
