@@ -116,6 +116,7 @@ What is the minimum number of candies you must give?
 | [0367-valid-perfect-square](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/0367-valid-perfect-square) |
 | [0380-insert-delete-getrandom-o1](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/0380-insert-delete-getrandom-o1) |
 | [0523-continuous-subarray-sum](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/0523-continuous-subarray-sum) |
+| [0840-magic-squares-in-grid](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/0840-magic-squares-in-grid) |
 | [1013-fibonacci-number](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/1013-fibonacci-number) |
 | [1925-count-square-sum-triples](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/1925-count-square-sum-triples) |
 | [3783-mirror-distance-of-an-integer](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/3783-mirror-distance-of-an-integer) |
@@ -164,6 +165,7 @@ What is the minimum number of candies you must give?
 | [0525-contiguous-array](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/0567-permutation-in-string) |
+| [0840-magic-squares-in-grid](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/0840-magic-squares-in-grid) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/3242-count-elements-with-maximum-frequency) |
 ## Linked List
@@ -245,6 +247,7 @@ What is the minimum number of candies you must give?
 | [0540-single-element-in-a-sorted-array](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/0560-subarray-sum-equals-k) |
 | [0747-min-cost-climbing-stairs](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/0747-min-cost-climbing-stairs) |
+| [0840-magic-squares-in-grid](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/0840-magic-squares-in-grid) |
 | [0875-koko-eating-bananas](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/0875-koko-eating-bananas) |
 | [1046-max-consecutive-ones-iii](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/1046-max-consecutive-ones-iii) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
@@ -436,6 +439,7 @@ What is the minimum number of candies you must give?
 | [0054-spiral-matrix](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/0054-spiral-matrix) |
 | [0064-minimum-path-sum](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/0073-set-matrix-zeroes) |
+| [0840-magic-squares-in-grid](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/0840-magic-squares-in-grid) |
 ## Simulation
 |  |
 | ------- |
