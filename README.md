@@ -198,6 +198,7 @@ What is the minimum number of candies you must give?
 | [0443-string-compression](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/0443-string-compression) |
 | [0455-assign-cookies](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/0455-assign-cookies) |
 | [0567-permutation-in-string](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/0567-permutation-in-string) |
+| [0977-squares-of-a-sorted-array](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/0977-squares-of-a-sorted-array) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 ## Array
 |  |
@@ -252,6 +253,7 @@ What is the minimum number of candies you must give?
 | [0747-min-cost-climbing-stairs](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/0747-min-cost-climbing-stairs) |
 | [0840-magic-squares-in-grid](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/0840-magic-squares-in-grid) |
 | [0875-koko-eating-bananas](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/0875-koko-eating-bananas) |
+| [0977-squares-of-a-sorted-array](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/0977-squares-of-a-sorted-array) |
 | [1046-max-consecutive-ones-iii](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/1046-max-consecutive-ones-iii) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -356,6 +358,7 @@ What is the minimum number of candies you must give?
 | [0435-non-overlapping-intervals](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/0435-non-overlapping-intervals) |
 | [0436-find-right-interval](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/0436-find-right-interval) |
 | [0455-assign-cookies](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/0455-assign-cookies) |
+| [0977-squares-of-a-sorted-array](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/0977-squares-of-a-sorted-array) |
 ## Queue
 |  |
 | ------- |
