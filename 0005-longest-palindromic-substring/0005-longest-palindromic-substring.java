@@ -19,17 +19,9 @@ class Solution {
     }
     public int isPalindrome(String s,int start,int end){
       
-         while(start>=0&&end<s.length()){
-            if(s.charAt(start)==s.charAt( end)){
+         while(start>=0&&end<s.length()&&s.charAt(start)==s.charAt(end)){
                 start--;
-                end++;
-             continue;
-            }
-            else{
-                break;
-            }
-          
-
+                end++; 
          }
          return end-start-1;
     }
