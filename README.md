@@ -216,6 +216,7 @@ What is the minimum number of candies you must give?
 | [0036-valid-sudoku](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/0036-valid-sudoku) |
 | [0042-trapping-rain-water](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/0045-jump-game-ii) |
+| [0046-permutations](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/0054-spiral-matrix) |
 | [0064-minimum-path-sum](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/0064-minimum-path-sum) |
@@ -270,6 +271,7 @@ What is the minimum number of candies you must give?
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/0022-generate-parentheses) |
+| [0046-permutations](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/0078-subsets) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Bit Manipulation
