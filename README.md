@@ -273,6 +273,7 @@ What is the minimum number of candies you must give?
 | [0022-generate-parentheses](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/0022-generate-parentheses) |
 | [0046-permutations](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/0078-subsets) |
+| [0401-binary-watch](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/0401-binary-watch) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Bit Manipulation
 |  |
@@ -282,6 +283,7 @@ What is the minimum number of candies you must give?
 | [0191-number-of-1-bits](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/0191-number-of-1-bits) |
 | [0287-find-the-duplicate-number](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/0338-counting-bits) |
+| [0401-binary-watch](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/0401-binary-watch) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Enumeration
 |  |
