@@ -273,6 +273,7 @@ What is the minimum number of candies you must give?
 | [0022-generate-parentheses](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/0022-generate-parentheses) |
 | [0046-permutations](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/0078-subsets) |
+| [0257-binary-tree-paths](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/0257-binary-tree-paths) |
 | [0401-binary-watch](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/0401-binary-watch) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Bit Manipulation
@@ -300,6 +301,7 @@ What is the minimum number of candies you must give?
 | [0022-generate-parentheses](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/0022-generate-parentheses) |
 | [0058-length-of-last-word](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/0058-length-of-last-word) |
 | [0076-minimum-window-substring](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/0076-minimum-window-substring) |
+| [0257-binary-tree-paths](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/0257-binary-tree-paths) |
 | [0383-ransom-note](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/0383-ransom-note) |
 | [0409-longest-palindrome](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/0409-longest-palindrome) |
 | [0443-string-compression](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/0443-string-compression) |
@@ -418,16 +420,19 @@ What is the minimum number of candies you must give?
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/0094-binary-tree-inorder-traversal) |
 | [0112-path-sum](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/0112-path-sum) |
+| [0257-binary-tree-paths](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/0257-binary-tree-paths) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/0094-binary-tree-inorder-traversal) |
 | [0112-path-sum](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/0112-path-sum) |
+| [0257-binary-tree-paths](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/0257-binary-tree-paths) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/0094-binary-tree-inorder-traversal) |
 | [0112-path-sum](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/0112-path-sum) |
+| [0257-binary-tree-paths](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/0257-binary-tree-paths) |
 ## Divide and Conquer
 |  |
 | ------- |
