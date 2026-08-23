@@ -26,9 +26,9 @@ class Solution {
             return;
         }
         if(root.left!=null)
-       traverse(result,root.left,new String(path+"->"+root.left.val));
-     if(root.right!=null)
-       traverse(result,root.right,new String(path+"->"+root.right.val));
+       traverse(result,root.left,path+"->"+root.left.val);
+       if(root.right!=null)
+       traverse(result,root.right,path+"->"+root.right.val);
 
     }
 }
