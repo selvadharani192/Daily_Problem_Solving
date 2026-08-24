@@ -118,6 +118,7 @@ What is the minimum number of candies you must give?
 | [0523-continuous-subarray-sum](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/0523-continuous-subarray-sum) |
 | [0840-magic-squares-in-grid](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/0840-magic-squares-in-grid) |
 | [1013-fibonacci-number](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/1013-fibonacci-number) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1925-count-square-sum-triples](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/1925-count-square-sum-triples) |
 | [3783-mirror-distance-of-an-integer](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/3783-mirror-distance-of-an-integer) |
 ## Dynamic Programming
@@ -262,6 +263,7 @@ What is the minimum number of candies you must give?
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/1855-maximum-distance-between-a-pair-of-values) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2553-separate-the-digits-in-an-array](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/2553-separate-the-digits-in-an-array) |
@@ -275,6 +277,7 @@ What is the minimum number of candies you must give?
 | [0078-subsets](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/0078-subsets) |
 | [0257-binary-tree-paths](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/0257-binary-tree-paths) |
 | [0401-binary-watch](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/0401-binary-watch) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Bit Manipulation
 |  |
@@ -285,10 +288,12 @@ What is the minimum number of candies you must give?
 | [0287-find-the-duplicate-number](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/0338-counting-bits) |
 | [0401-binary-watch](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/0401-binary-watch) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Enumeration
 |  |
 | ------- |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1925-count-square-sum-triples](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/1925-count-square-sum-triples) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## String
@@ -452,6 +457,7 @@ What is the minimum number of candies you must give?
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/0062-unique-paths) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/selvadharani192/Daily_Problem_Solving/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Matrix
 |  |
 | ------- |
