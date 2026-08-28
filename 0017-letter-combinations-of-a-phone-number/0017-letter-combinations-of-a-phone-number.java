@@ -1,5 +1,14 @@
 class Solution {
-    private static final Map<Character, String> dialPad = new HashMap<>();
+    private final Map<Character, String> dialPad = Map.of(
+        '2', "abc",
+        '3', "def",
+        '4', "ghi",
+        '5', "jkl",
+        '6', "mno",
+        '7', "pqrs",
+        '8', "tuv",
+        '9', "wxyz"
+    );
 
     public List<String> letterCombinations(String digits) {
         List<String> result = new ArrayList<>();
@@ -8,40 +17,29 @@ class Solution {
             return result;
         }
 
-        dialPad.put('2', "abc");
-        dialPad.put('3', "def");
-        dialPad.put('4', "ghi");
-        dialPad.put('5', "jkl");
-        dialPad.put('6', "mno");
-        dialPad.put('7', "pqrs");
-        dialPad.put('8', "tuv");
-        dialPad.put('9', "wxyz");
-
-        generatePossibilities(0, "", digits, result);
+        backtrack(0, new StringBuilder(), digits, result);
         return result;
     }
 
-    private void generatePossibilities(
-            int index,
-            String combination,
-            String digits,
-            List<String> combinations) {
+    private void backtrack(int index, StringBuilder combination,
+                           String digits, List<String> result) {
 
-        // We have selected one character for every digit
         if (index == digits.length()) {
-            combinations.add(combination);
+            result.add(combination.toString());
             return;
         }
 
         String letters = dialPad.get(digits.charAt(index));
 
-        for (char letter : letters.toCharArray()) {
-            generatePossibilities(
-                index + 1,
-                combination + letter,
-                digits,
-                combinations
-            );
+        for (char ch : letters.toCharArray()) {
+            // Choose
+            combination.append(ch);
+
+            // Explore
+            backtrack(index + 1, combination, digits, result);
+
+            // Undo ← explicit backtracking
+            combination.deleteCharAt(combination.length() - 1);
         }
     }
 }
