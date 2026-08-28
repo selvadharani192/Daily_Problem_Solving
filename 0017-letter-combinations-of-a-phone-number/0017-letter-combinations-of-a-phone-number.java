@@ -25,7 +25,8 @@ class Solution {
         }
         char c= digits.charAt(index);
         String dialPadDigits = dialPad.get(c);
-        for(char ch:dialPadDigits.toCharArray()){
+      char[] dialPadDigitsArr=  dialPadDigits.toCharArray();
+        for(char ch:dialPadDigitsArr){
             generatePossibilities(index+1,combination+ch,digits,combinations);
         }
     }
